@@ -19,7 +19,7 @@ def main
     'maintainers' => ['tekezo'],
     'rules' => [
       {
-        'description' => 'Personal rules (@tekezo) (rev 37)',
+        'description' => 'Personal rules (@tekezo) (rev 41)',
         'available_since' => '13.6.0',
         'manipulators' =>
         core_configuration +
@@ -27,7 +27,6 @@ def main
         mouse +
         extra_cursor +
         option_hyphen +
-        media_controls +
         app_virtual_machine +
         app_finder +
         app_terminal +
@@ -41,6 +40,31 @@ end
 
 def core_configuration
   [
+    ########################################
+    # fn
+    ########################################
+
+    # Post command+click when fn is pressed alone
+    {
+      'type' => 'basic',
+      'from' => {
+        'key_code' => 'fn',
+        'modifiers' => Karabiner.from_modifiers,
+      },
+      'to' => [
+        { 'key_code' => 'fn' },
+      ],
+      'to_if_alone' => [
+        {
+          'pointing_button' => 'button1',
+          'modifiers' => ['left_command'],
+        },
+      ],
+      'parameters' => {
+        'basic.to_if_alone_timeout_milliseconds' => 250,
+      },
+    },
+
     ########################################
     # left_control
     ########################################
@@ -145,7 +169,7 @@ def core_configuration
     },
 
     ########################################
-    # fn
+    # left_command, left_option
     ########################################
 
     # input source switch
@@ -153,43 +177,44 @@ def core_configuration
     {
       'type' => 'basic',
       'from' => {
-        'key_code' => 'open_bracket',
-        'modifiers' => Karabiner.from_modifiers(['option']),
+        'key_code' => 'left_command',
+        'modifiers' => Karabiner.from_modifiers(['left_option']),
       },
       'to' => [
         {
-          'key_code' => 'lang2',
-        },
-      ],
-    },
-
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => 'close_bracket',
-        'modifiers' => Karabiner.from_modifiers(['option']),
-      },
-      'to' => [
-        {
-          'key_code' => 'lang1',
-        },
-      ],
-    },
-
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => 'fn',
-        'modifiers' => Karabiner.from_modifiers,
-      },
-      'to' => [
-        {
-          'key_code' => 'fn',
+          'key_code' => 'left_command',
+          'modifiers' => [
+            'left_option',
+          ],
         },
       ],
       'to_if_alone' => [
         {
-          'key_code' => 'grave_accent_and_tilde',
+          'key_code' => 'lang1',
+        },
+      ],
+      'parameters' => {
+        'basic.to_if_alone_timeout_milliseconds' => 250,
+      },
+    },
+
+    {
+      'type' => 'basic',
+      'from' => {
+        'key_code' => 'left_option',
+        'modifiers' => Karabiner.from_modifiers(['left_command']),
+      },
+      'to' => [
+        {
+          'key_code' => 'left_option',
+          'modifiers' => [
+            'left_command',
+          ],
+        },
+      ],
+      'to_if_alone' => [
+        {
+          'key_code' => 'lang2',
         },
       ],
       'parameters' => {
@@ -406,48 +431,6 @@ end
 
 def extra_cursor
   [
-    # control+1,2,3,4 to home,page_down,page_up,end
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => '1',
-        'modifiers' => Karabiner.from_modifiers(['left_control'], %w[caps_lock shift]),
-      },
-      'to' => [
-        { 'key_code' => 'home' },
-      ],
-    },
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => '2',
-        'modifiers' => Karabiner.from_modifiers(['left_control'], %w[caps_lock shift]),
-      },
-      'to' => [
-        { 'key_code' => 'page_down' },
-      ],
-    },
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => '3',
-        'modifiers' => Karabiner.from_modifiers(['left_control'], %w[caps_lock shift]),
-      },
-      'to' => [
-        { 'key_code' => 'page_up' },
-      ],
-    },
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => '4',
-        'modifiers' => Karabiner.from_modifiers(['left_control'], %w[caps_lock shift]),
-      },
-      'to' => [
-        { 'key_code' => 'end' },
-      ],
-    },
-
     # option+a,e to home,end
     {
       'type' => 'basic',
@@ -509,57 +492,6 @@ def option_hyphen
           'key_code' => 'equal_sign',
           'repeat' => false,
         },
-      ],
-    },
-  ]
-end
-
-def media_controls
-  # Change fn+page_up,page_down to brightness control
-  # Change page_up,page_down to volume control
-  [
-    # fn+page_down
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => 'page_down',
-        'modifiers' => Karabiner.from_modifiers(['fn'], ['any']),
-      },
-      'to' => [
-        { 'consumer_key_code' => 'display_brightness_decrement' },
-      ],
-    },
-    # fn+page_up
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => 'page_up',
-        'modifiers' => Karabiner.from_modifiers(['fn'], ['any']),
-      },
-      'to' => [
-        { 'consumer_key_code' => 'display_brightness_increment' },
-      ],
-    },
-    # page_down
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => 'page_down',
-        'modifiers' => Karabiner.from_modifiers([], ['any']),
-      },
-      'to' => [
-        { 'consumer_key_code' => 'volume_decrement' },
-      ],
-    },
-    # page_up
-    {
-      'type' => 'basic',
-      'from' => {
-        'key_code' => 'page_up',
-        'modifiers' => Karabiner.from_modifiers([], ['any']),
-      },
-      'to' => [
-        { 'consumer_key_code' => 'volume_increment' },
       ],
     },
   ]
