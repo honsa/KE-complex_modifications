@@ -82,6 +82,8 @@ module Karabiner
 
       '^com\.OpenText\.Exceed-TurboX-Client$',
       '^com\.realvnc\.vncviewer$',
+
+      '^com\.citrix\.receiver\.icaviewer',
     ],
 
     :terminal => [
@@ -109,6 +111,7 @@ module Karabiner
       '^com\.citrix\.XenAppViewer$',
       '^com\.vmware\.proxyApp\.', # prefix
       '^com\.parallels\.winapp\.', # prefix
+      '^com\.utmapp\.UTM$',
     ],
 
     :sublime_text => [

@@ -135,6 +135,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -145,6 +146,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -239,6 +241,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -249,6 +252,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -300,6 +304,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -310,6 +315,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -404,6 +410,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -414,6 +421,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -554,6 +562,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -564,6 +573,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -616,6 +626,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -626,6 +637,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -678,6 +690,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -688,6 +701,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -740,6 +754,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -750,6 +765,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -807,6 +823,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -817,6 +834,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -869,6 +887,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -879,6 +898,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -931,6 +951,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -941,6 +962,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -998,6 +1020,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1008,6 +1031,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1066,6 +1090,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1076,6 +1101,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1133,6 +1159,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1143,6 +1170,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1200,6 +1228,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1210,6 +1239,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1267,6 +1297,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1277,6 +1308,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1334,6 +1366,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1344,6 +1377,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1393,6 +1427,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1403,6 +1438,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1460,6 +1496,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1470,6 +1507,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1527,6 +1565,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1537,6 +1576,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1589,6 +1629,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1599,6 +1640,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1656,6 +1698,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1666,6 +1709,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1723,6 +1767,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1733,6 +1778,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1785,6 +1831,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1795,6 +1842,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1847,6 +1895,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1857,6 +1906,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1914,6 +1964,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1924,6 +1975,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -1979,6 +2031,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -1988,7 +2041,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2033,6 +2087,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2042,7 +2097,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2087,6 +2143,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2096,7 +2153,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2142,6 +2200,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2151,7 +2210,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2197,6 +2257,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2206,7 +2267,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2253,6 +2315,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2262,7 +2325,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2311,6 +2375,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2320,7 +2385,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2361,6 +2427,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2370,7 +2437,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2415,6 +2483,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2424,7 +2493,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2466,6 +2536,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2475,7 +2546,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2520,6 +2592,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2529,7 +2602,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2572,6 +2646,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2581,7 +2656,8 @@
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$"
               ]
             }
           ]
@@ -2968,6 +3044,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -2978,6 +3055,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -3035,6 +3113,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -3045,6 +3124,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
@@ -3098,6 +3178,7 @@
                 "^com\\.2X\\.Client\\.Mac$",
                 "^com\\.OpenText\\.Exceed-TurboX-Client$",
                 "^com\\.realvnc\\.vncviewer$",
+                "^com\\.citrix\\.receiver\\.icaviewer",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
                 "^com\\.vmware\\.view$",
@@ -3108,6 +3189,7 @@
                 "^com\\.citrix\\.XenAppViewer$",
                 "^com\\.vmware\\.proxyApp\\.",
                 "^com\\.parallels\\.winapp\\.",
+                "^com\\.utmapp\\.UTM$",
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyperterm$",
