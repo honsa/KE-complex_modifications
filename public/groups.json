@@ -397,6 +397,9 @@
           "path": "json/swap_alt_cmd_in_autodesk_maya.json"
         },
         {
+          "path": "json/remote_desktop_separated_rules.json"
+        },
+        {
           "path": "json/remote-desktop.json"
         },
         {
@@ -568,10 +571,16 @@
           "path": "json/ms_teams_ptt.json"
         },
         {
+          "path": "json/parallels_right_cmd_to_insert.json"
+        },
+        {
           "path": "json/f12-show-hide-iterm.json"
         },
         {
           "path": "json/fn+cmd_to_eisu_and_kana.json"
+        },
+        {
+          "path": "json/tradingview_ctrl_n.json"
         }
       ]
     },
@@ -694,7 +703,7 @@
         },
 	{
 	  "path": "json/german_iso_pc_mapping.json",
-          "extra_description_path": "extra_descriptions/german_iso_pc_mapping.json.html" 
+          "extra_description_path": "extra_descriptions/german_iso_pc_mapping.json.html"
 	},
         {
           "path": "json/hungarian_pc.json"
@@ -1190,6 +1199,9 @@
         },
         {
           "path": "json/option_pgup_pgdown_home_end_to_ctrl_arrows.json"
+        },
+        {
+          "path": "json/cmd+shift+k_delete_line.json"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
-    "title": "Personal rules (@CHMarvin)",
+    "title": "Personal rules (@ccmvn)",
     "maintainers": [
-        "CHMarvin"
+        "ccmvn"
     ],
     "rules": [
         {
@@ -332,7 +332,7 @@
                                 "^com\\.geekspiff\\.chickenofthevnc$",
                                 "^net\\.sourceforge\\.chicken$",
                                 "^de\\.jinx\\.JollysFastVNC\\.",
-                                "^com\\.realvnc\\.vncviewer\\."
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -379,7 +379,7 @@
                                 "^com\\.geekspiff\\.chickenofthevnc$",
                                 "^net\\.sourceforge\\.chicken$",
                                 "^de\\.jinx\\.JollysFastVNC\\.",
-                                "^com\\.realvnc\\.vncviewer\\."
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -440,7 +440,7 @@
                                 "^com\\.geekspiff\\.chickenofthevnc$",
                                 "^net\\.sourceforge\\.chicken$",
                                 "^de\\.jinx\\.JollysFastVNC\\.",
-                                "^com\\.realvnc\\.vncviewer\\."
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -496,7 +496,7 @@
                                 "^com\\.geekspiff\\.chickenofthevnc$",
                                 "^net\\.sourceforge\\.chicken$",
                                 "^de\\.jinx\\.JollysFastVNC\\.",
-                                "^com\\.realvnc\\.vncviewer\\."
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -557,7 +557,7 @@
                                 "^com\\.geekspiff\\.chickenofthevnc$",
                                 "^net\\.sourceforge\\.chicken$",
                                 "^de\\.jinx\\.JollysFastVNC\\.",
-                                "^com\\.realvnc\\.vncviewer\\."
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -613,7 +613,7 @@
                                 "^com\\.geekspiff\\.chickenofthevnc$",
                                 "^net\\.sourceforge\\.chicken$",
                                 "^de\\.jinx\\.JollysFastVNC\\.",
-                                "^com\\.realvnc\\.vncviewer\\."
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -708,7 +708,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -769,7 +770,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -830,7 +832,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -875,7 +878,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -941,7 +945,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1007,7 +1012,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1073,7 +1079,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1134,7 +1141,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1200,7 +1208,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1259,7 +1268,15 @@
                                 "^com\\.citrix\\.XenAppViewer$",
                                 "^com\\.vmware\\.proxyApp\\.",
                                 "^com\\.parallels\\.winapp\\.",
-                                "^tv\\.parsec\\.www$"
+                                "^org\\.macports\\.X11$",
+                                "^com\\.apple\\.Terminal$",
+                                "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
+                                "^co\\.zeit\\.hyper$",
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1291,13 +1308,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1324,13 +1367,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1363,13 +1432,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1404,14 +1499,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
                                 "^tv\\.parsec\\.www$",
-                                "^com\\.microsoft\\.VSCode$"
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1438,13 +1558,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1477,13 +1623,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1518,13 +1690,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1559,13 +1757,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1600,13 +1824,39 @@
                     "conditions": [
                         {
                             "bundle_identifiers": [
+                                "^com\\.microsoft\\.rdc$",
+                                "^com\\.microsoft\\.rdc\\.mac$",
+                                "^com\\.microsoft\\.rdc\\.macos$",
+                                "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                "^net\\.sf\\.cord$",
+                                "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                "^com\\.itap-mobile\\.qmote$",
+                                "^com\\.nulana\\.remotixmac$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                "^com\\.teamviewer\\.TeamViewer$",
+                                "^com\\.philandro\\.anydesk$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.2X\\.Client\\.Mac$",
+                                "^com\\.vmware\\.fusion$",
+                                "^com\\.vmware\\.horizon$",
+                                "^com\\.vmware\\.view$",
+                                "^com\\.parallels\\.desktop$",
+                                "^com\\.parallels\\.vm$",
+                                "^com\\.parallels\\.desktop\\.console$",
+                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                "^com\\.citrix\\.XenAppViewer$",
+                                "^com\\.vmware\\.proxyApp\\.",
+                                "^com\\.parallels\\.winapp\\.",
                                 "^org\\.macports\\.X11$",
                                 "^com\\.apple\\.Terminal$",
                                 "^com\\.googlecode\\.iterm2$",
+                                "^co\\.zeit\\.hyperterm$",
                                 "^co\\.zeit\\.hyper$",
-                                "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                "^com\\.microsoft\\.rdc\\.macos$",
-                                "^tv\\.parsec\\.www$"
+                                "^io\\.alacritty$",
+                                "^net\\.kovidgoyal\\.kitty$",
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1831,7 +2081,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1892,7 +2143,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ],
                             "type": "frontmost_application_unless"
                         }
@@ -1974,7 +2226,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -2031,7 +2284,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -2330,6 +2584,38 @@
             ]
         },
         {
+            "description": "Space => Command+O (Open) (Only in Finder)",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "spacebar",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "o",
+                            "modifiers": [
+                                "left_command"
+                            ]
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^com.apple.finder"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "description": "Ctrl+Left Click => Command+Left Click (Select multiple items)",
             "manipulators": [
                 {
@@ -2421,7 +2707,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -2487,7 +2774,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -2554,7 +2842,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -2620,7 +2909,8 @@
                                 "^co\\.zeit\\.hyper$",
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
-                                "^tv\\.parsec\\.www$"
+                                "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$"
                             ]
                         }
                     ]
@@ -3277,6 +3567,7 @@
                                 "^io\\.alacritty$",
                                 "^net\\.kovidgoyal\\.kitty$",
                                 "^tv\\.parsec\\.www$",
+                                "^com\\.utmapp\\.UTM$",
                                 "^us\\.zoom\\.xos$",
                                 "^com\\.microsoft\\.teams$"
                             ],
