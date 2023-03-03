@@ -5,6 +5,9 @@
       "id": "modifier-keys",
       "files": [
         {
+          "path": "json/caps_lock_twice.json"
+        },
+        {
           "path": "json/disable_wifidiagnostics.json"
         },
         {
@@ -157,6 +160,9 @@
         },
         {
           "path": "json/emacs_key_bindings_move_delete_select.json"
+        },
+        {
+          "path": "json/meta_tab.json"
         }
       ]
     },
@@ -164,6 +170,9 @@
       "name": "Emulation Modes",
       "id": "emulation-modes",
       "files": [
+        {
+          "path": "json/toggle_vim.json"
+        },
         {
           "path": "json/hhkb-like-arrows-and-page-control.json"
         },
@@ -1105,6 +1114,9 @@
       "id": "os-functionality",
       "files": [
         {
+          "path": "json/search_in_dict.json"
+        },
+        {
           "path": "json/printscreen_command+shift+5.json"
         },
         {
@@ -1528,6 +1540,10 @@
         },
         {
           "path": "json/keychron_k6_remap_page_down_page_up.json"
+        },
+        {
+          "path": "json/keychron_k6_useful_escape_caps_lock.json",
+          "extra_description_path": "extra_descriptions/keychron_k6_useful_escape_caps_lock.json.html"
         }
       ]
     },
