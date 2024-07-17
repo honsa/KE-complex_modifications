@@ -1,9 +1,466 @@
 {
   "index": [
     {
+      "name": "OS Functionality",
+      "id": "os-functionality",
+      "files": [
+        {
+          "path": "json/mac_osx.json",
+          "extra_description_path": "extra_descriptions/mac_osx.html"
+        },
+        {
+          "path": "json/mac_osx_double_tap_q_close_application.json"
+        },
+        {
+          "path": "json/mac_osx_disable_minimising_windows.json",
+          "extra_description_path": "extra_descriptions/mac_osx_disable_minimising_windows.html"
+        },
+        {
+          "path": "json/function_keys_supported_apps.json",
+          "extra_description_path": "extra_descriptions/function_keys_supported_apps.html"
+        },
+        {
+          "path": "json/mwit-taskbar-number-launch-app.json"
+        },
+        {
+          "path": "json/F4-desktop.json"
+        },
+        {
+          "path": "json/search_in_dict.json"
+        },
+        {
+          "path": "json/printscreen_command+shift+5.json"
+        },
+        {
+          "path": "json/show_desktop.json"
+        },
+        {
+          "path": "json/CapsLockToSearch.json"
+        },
+        {
+          "path": "json/cmd_del_to_cmd_bksp.json"
+        },
+        {
+          "path": "json/mouse_motion_to_scroll.json"
+        },
+        {
+          "path": "json/launch_apps.json",
+          "extra_description_path": "extra_descriptions/launch_apps.json.html"
+        },
+        {
+          "path": "json/application_window_tab_switch_with_right_cmd_hjklsemiquote.json"
+        },
+        {
+          "path": "json/anti_rsi_app_switch.json"
+        },
+        {
+          "path": "json/fine_volume_control.json"
+        },
+        {
+          "path": "json/fine_brightness_control.json"
+        },
+        {
+          "path": "json/command_q.json"
+        },
+        {
+          "path": "json/mouse_keys_ambi.json",
+          "extra_description_path": "extra_descriptions/mouse_keys_ambi.json.html"
+        },
+        {
+          "path": "json/mouse_keys_simple.json",
+          "extra_description_path": "extra_descriptions/mouse_keys_simple.json.html"
+        },
+        {
+          "path": "json/mouse_keys_full.json",
+          "extra_description_path": "extra_descriptions/mouse_keys_full.json.html"
+        },
+        {
+          "path": "json/mouse_keys_mode_v4.json",
+          "extra_description_path": "extra_descriptions/mouse_keys_mode_v4.json.html"
+        },
+        {
+          "path": "json/mouse_keys_full_xgwang_me.json",
+          "extra_description_path": "extra_descriptions/mouse_keys_full_xgwang_me.json.html"
+        },
+        {
+          "path": "json/disable_cmd_f1_screen_mirroring.json"
+        },
+        {
+          "path": "json/rotate_left_modifiers.json"
+        },
+        {
+          "path": "json/sleep-monitor.json"
+        },
+        {
+          "path": "json/disable_cmd_h_hide_window.json"
+        },
+        {
+          "path": "json/control_lclick_to_lclick.json"
+        },
+        {
+          "path": "json/lock_screen.json"
+        },
+        {
+          "path": "json/screen_saver.json"
+        },
+        {
+          "path": "json/multitouch_diamond_cursor.json",
+          "extra_description_path": "extra_descriptions/multitouch_diamond_cursor.json.html"
+        },
+        {
+          "path": "json/multitouch_vi_mode.json",
+          "extra_description_path": "extra_descriptions/multitouch_vi_mode.json.html"
+        },
+        {
+          "path": "json/multitouch_mouse_buttons.json",
+          "extra_description_path": "extra_descriptions/multitouch_mouse_buttons.json.html"
+        },
+        {
+          "path": "json/thumbsense.json",
+          "extra_description_path": "extra_descriptions/thumbsense.json.html"
+        },
+        {
+          "path": "json/Right_option_as_emoji_key.json"
+        },
+        {
+          "path": "json/mouse_buttons_4_5_desktop_switch.json"
+        },
+        {
+          "path": "json/mouse_345_mac_desktop_switcher.json"
+        },
+        {
+          "path": "json/mouse3_app_switcher.json",
+          "extra_description_path": "extra_descriptions/mouse3_app_switcher.json.html"
+        },
+        {
+          "path": "json/r_cmd_to_l_ctrl_and_space.json",
+          "extra_description_path": "extra_descriptions/r_cmd_to_l_ctrl_and_space.json.html"
+        },
+        {
+          "path": "json/open_terminal_window.json"
+        },
+        {
+          "path": "json/keyboard-brightness.json"
+        },
+        {
+          "path": "json/keybrightness_F5.json"
+        },
+        {
+          "path": "json/mouse_345_changer.json"
+        },
+        {
+          "path": "json/option_pgup_pgdown_home_end_to_ctrl_arrows.json"
+        },
+        {
+          "path": "json/cmd+shift+k_delete_line.json"
+        },
+        {
+          "path": "json/mission_control_all_on_f3_app_on_command_f3_desktop_on_option_f3.json"
+        },
+        {
+          "path": "json/om_window_switcher.json"
+        },
+        {
+          "path": "json/om_function_keys.json"
+        },
+        {
+          "path": "json/om_application_launcher.json"
+        },
+        {
+          "path": "json/fix-ghost-select-in-context-menu.json"
+        },
+        {
+          "path": "json/disable_option_click.json"
+        }
+      ]
+    },
+    {
+      "name": "Application Specific",
+      "id": "application-specific",
+      "files": [
+        {
+          "path": "json/vs_code.json",
+          "extra_description_path": "extra_descriptions/vs_code.html"
+        },
+        {
+          "path": "json/google_chrome.json",
+          "extra_description_path": "extra_descriptions/google_chrome.html"
+        },
+        {
+          "path": "json/spotify.json"
+        },
+        {
+          "path": "json/slack.json",
+          "extra_description_path": "extra_descriptions/slack.html"
+        },
+        {
+          "path": "json/premiere_pro.json",
+          "extra_description_path": "extra_descriptions/premiere_pro.html"
+        },
+        {
+          "path": "json/obsidian_emacs_vim-insert.json"
+        },
+        {
+          "path": "json/Sync_SystemVolume_to_Music.json"
+        },
+        {
+          "path": "json/Sync_SystemVolume_to_iTunes.json"
+        },
+        {
+          "path": "json/bash.json"
+        },
+        {
+          "path": "json/convert_hangouts_mutes_to_zoom_us.json"
+        },
+        {
+          "path": "json/swap_alt_cmd_in_autodesk_maya.json"
+        },
+        {
+          "path": "json/remote_desktop_separated_rules.json"
+        },
+        {
+          "path": "json/remote-desktop.json"
+        },
+        {
+          "path": "json/mac_osx_on_rdp.json"
+        },
+        {
+          "path": "json/FnKeyManagement.json",
+          "extra_description_path": "extra_descriptions/FnKeyManagement.html"
+        },
+        {
+          "path": "json/uk_macos_rdp.json"
+        },
+        {
+          "path": "json/french_mac_keyboard_remote_desktop.json",
+          "extra_description_path": "extra_descriptions/french_mac_keyboard_remote_desktop.json.html"
+        },
+        {
+          "path": "json/tmux_prefix.json",
+          "extra_description_path": "extra_descriptions/tmux_prefix.json.html"
+        },
+        {
+          "path": "json/terminal_navi.json",
+          "extra_description_path": "extra_descriptions/terminal_navi.json.html"
+        },
+        {
+          "path": "json/launch_new_Chrome_or_iTerm2_windows.json",
+          "extra_description_path": "extra_descriptions/launch_new_Chrome_or_iTerm2_windows.json.html"
+        },
+        {
+          "path": "json/launchapp_catalina.json",
+          "extra_description_path": "extra_descriptions/launchapp_catalina.json.html"
+        },
+        {
+          "path": "json/xcode.json"
+        },
+        {
+          "path": "json/vscode.json",
+          "extra_description_path": "extra_descriptions/vscode.json.html"
+        },
+        {
+          "path": "json/safari.json"
+        },
+        {
+          "path": "json/safari_ignore_command_q.json"
+        },
+        {
+          "path": "json/virtual_machine.json"
+        },
+        {
+          "path": "json/amethyst.json"
+        },
+        {
+          "path": "json/amethyst_left_right.json"
+        },
+        {
+          "path": "json/finder.json"
+        },
+        {
+          "path": "json/Photoshop_Windows_keymaps.json"
+        },
+        {
+          "path": "json/vim_style_escape.json"
+        },
+        {
+          "path": "json/vim_buffer_switch.json"
+        },
+        {
+          "path": "json/sketch-shortcut.json",
+          "extra_description_path": "extra_descriptions/sketch-shortcut.json.html"
+        },
+        {
+          "path": "json/figma-shortcut.json",
+          "extra_description_path": "extra_descriptions/figma-shortcut.json.html"
+        },
+        {
+          "path": "json/option_tab.json"
+        },
+        {
+          "path": "json/alacritty.json"
+        },
+        {
+          "path": "json/warp.json"
+        },
+        {
+          "path": "json/aquaskk.json"
+        },
+        {
+          "path": "json/vnc_swap_left_cmd_ctrl.json"
+        },
+        {
+          "path": "json/jetbrains_osx_mimics_pc.json",
+          "extra_description_path": "extra_descriptions/jetbrains_osx_mimics_pc.json.html"
+        },
+        {
+          "path": "json/spectacle_fn_wasdf.json",
+          "extra_description_path": "extra_descriptions/spectacle_fn_wasdf.json.html"
+        },
+        {
+          "path": "json/stadia_cmd.json",
+          "extra_description_path": "extra_descriptions/stadia_cmd.html"
+        },
+        {
+          "path": "json/wow_cmd.json",
+          "extra_description_path": "extra_descriptions/wow_cmd.html"
+        },
+        {
+          "path": "json/swap_ctrl_and_cmd_for_trader_workstation.json"
+        },
+        {
+          "path": "json/roon.json"
+        },
+        {
+          "path": "json/notion_cmd_p_to_cmd_k.json"
+        },
+        {
+          "path": "json/panic-nova-home-and-end.json",
+          "extra_description_path": "extra_descriptions/panic-nova-home-and-end.json.html"
+        },
+        {
+          "path": "json/citrix_ctrl_alt_win.json",
+          "extra_description_path": "extra_descriptions/citrix.html"
+        },
+        {
+          "path": "json/citrix_ctrl_win_alt.json",
+          "extra_description_path": "extra_descriptions/citrix.html"
+        },
+        {
+          "path": "json/control-to-command-in-office.json"
+        },
+        {
+          "path": "json/preview-vim.json",
+          "extra_description_path": "extra_descriptions/preview-vim.html"
+        },
+        {
+          "path": "json/swap_ctrl_and_cmd_except_in_terminal.json"
+        },
+        {
+          "path": "json/swap_fn_and_cmd_except_in_terminal.json"
+        },
+        {
+          "path": "json/KeynoteAndIllustrator.json"
+        },
+        {
+          "path": "json/apple_mail_shortcuts.json"
+        },
+        {
+          "path": "json/slack_shortcuts.json"
+        },
+        {
+          "path": "json/eject_to_activate_and_toggle_mic_mute_ms_teams.json"
+        },
+        {
+          "path": "json/shift-enter-fish-shell-autocomplete.json"
+        },
+        {
+          "path": "json/clickup.json"
+        },
+        {
+          "path": "json/dictation-to-mutify.json"
+        },
+        {
+          "path": "json/browser-rshift-enter-disable.json"
+        },
+        {
+          "path": "json/jetbrains_rider_fn.json"
+        },
+        {
+          "path": "json/shottr_map_cmd_c_to_copy.json"
+        },
+        {
+          "path": "json/finder_improved_navigation.json"
+        },
+        {
+          "path": "json/f5_ms_teams_zoom_mic_mute.json",
+          "extra_description_path": "extra_descriptions/f5_ms_teams_zoom_mic_mute.html"
+        },
+        {
+          "path": "json/music_keyboard_controls.json",
+          "extra_description_path": "extra_descriptions/music_keyboard_controls.html"
+        },
+        {
+          "path": "json/ms_teams_ptt.json"
+        },
+        {
+          "path": "json/parallels_right_cmd_to_insert.json"
+        },
+        {
+          "path": "json/f12-show-hide-iterm.json"
+        },
+        {
+          "path": "json/fn+cmd_to_eisu_and_kana.json"
+        },
+        {
+          "path": "json/tradingview_ctrl_n.json"
+        },
+        {
+          "path": "json/logitech_mx_vertical_back_forward_with_vs_code.json"
+        },
+        {
+          "path": "json/ncspot.json",
+          "extra_description_path": "extra_descriptions/ncspot.json.html"
+        },
+        {
+          "path": "json/powerpoint.json",
+          "extra_description_path": "extra_descriptions/powerpoint.json.html"
+        }
+      ]
+    },
+    {
       "name": "Modifier Keys",
       "id": "modifier-keys",
       "files": [
+        {
+          "path": "json/hyper_key_power_pack.json",
+          "extra_description_path": "extra_descriptions/hyper_key_power_pack.html"
+        },
+        {
+          "path": "json/hyper_key_caps_lock.json",
+          "extra_description_path": "extra_descriptions/hyper_key_caps_lock.html"
+        },
+        {
+          "path": "json/hyper_key_tab.json",
+          "extra_description_path": "extra_descriptions/hyper_key_tab.html"
+        },
+        {
+          "path": "json/hyper_key_right_option.json"
+        },
+        {
+          "path": "json/CapsWord.json"
+        },
+        {
+          "path": "json/f4-to-launch-terminal.json"
+        },
+        {
+          "path": "json/cmd+fn+delete_forward_delete_line.json"
+        },
+        {
+          "path": "json/caps_lock_doubleSidedRemap.json"
+        },
+        {
+          "path": "json/lily58_default_arrows.json"
+        },
         {
           "path": "json/caps_lock_twice.json"
         },
@@ -21,6 +478,9 @@
         },
         {
           "path": "json/hyper_key.json"
+        },
+        {
+          "path": "json/caps_lock_to_hyper_or_esc_if_alone.json"
         },
         {
           "path": "json/bepo-cmdqwerty-toggle.json"
@@ -139,6 +599,9 @@
           "path": "json/left_command_insert_delete_home_end_pageup_pagedown_to_media.json"
         },
         {
+          "path": "json/caps_lock_tap_esc_hold_left_alt.json"
+        },
+        {
           "path": "json/caps_lock_tapped_caps_held_cmd.json"
         },
         {
@@ -147,6 +610,10 @@
         {
           "path": "json/fn_wasdqerf.json",
           "extra_description_path": "extra_descriptions/fn_wasdqerf.html"
+        },
+        {
+          "path": "json/left_control_wasdqerf.json",
+          "extra_description_path": "extra_descriptions/left_control_wasdqerf.html"
         },
         {
           "path": "json/right_command_vi_like.json"
@@ -163,6 +630,37 @@
         },
         {
           "path": "json/meta_tab.json"
+        },
+        {
+          "path": "json/right_command_to_f19.json"
+        },
+        {
+          "path": "json/CAPSLOCK_modifier_suite.json",
+          "extra_description_path": "extra_descriptions/CAPSLOCK_modifier_suite.html"
+        },
+        {
+          "path": "json/ru_keyboard_remapping_comma_on_b.json",
+          "extra_description_path": "extra_descriptions/ru_keyboard_remapping_comma_on_b.json.html"
+        },
+        {
+          "path": "json/ru_keyboard_remapping_small_b_on_shift_b.json",
+          "extra_description_path": "extra_descriptions/ru_keyboard_remapping_small_b_on_shift_b.json.html"
+        },
+        {
+          "path": "json/ru_keyboard_remapping_period_on_yu.json",
+          "extra_description_path": "extra_descriptions/ru_keyboard_remapping_small_yu_on_shift_yu.json.html"
+        },
+        {
+          "path": "json/ru_keyboard_remapping_small_yu_on_shift_yu.json",
+          "extra_description_path": "extra_descriptions/ru_keyboard_remapping_small_yu_on_shift_yu.json.html"
+        },
+        {
+          "path": "json/ru_keyboard_remapping_small_b.json",
+          "extra_description_path": "extra_descriptions/ru_keyboard_remapping_small_b.json.html"
+        },
+        {
+          "path": "json/ru_keyboard_remapping_small_yu-on-close_bracket.json",
+          "extra_description_path": "extra_descriptions/ru_keyboard_remapping_small_yu-on-close_bracket.json.html"
         }
       ]
     },
@@ -170,6 +668,10 @@
       "name": "Emulation Modes",
       "id": "emulation-modes",
       "files": [
+        {
+          "path": "json/mouse_full_emulation_with_right_command_super_fast.json",
+          "extra_description_path": "extra_descriptions/mouse_full_emulation_with_right_command_super_fast.json.html"
+        },
         {
           "path": "json/toggle_vim.json"
         },
@@ -219,6 +721,9 @@
           "path": "json/ctrl_pn_arrow.json"
         },
         {
+          "path": "json/ctrl_pnbfae_arrow.json"
+        },
+        {
           "path": "json/diamond_cursor_right_supplements.json"
         },
         {
@@ -258,6 +763,10 @@
         },
         {
           "path": "json/HomeEnd.json"
+        },
+        {
+          "path": "json/hyperijkl.json",
+          "extra_description_path": "extra_descriptions/hyperijkl.json.html"
         },
         {
           "path": "json/ijkl_arrows.json"
@@ -305,6 +814,10 @@
           "extra_description_path": "extra_descriptions/set_num_lock.html"
         },
         {
+          "path": "json/om_numeric_keypad_mode.json",
+          "extra_description_path": "extra_descriptions/om_numeric_keypad_mode.json.html"
+        },
+        {
           "path": "json/pc_shortcuts.json"
         },
         {
@@ -328,6 +841,10 @@
         },
         {
           "path": "json/spacefn.json"
+        },
+        {
+          "path": "json/spacefn_plus.json",
+          "extra_description_path": "extra_descriptions/spacefn_plus.json.html"
         },
         {
           "path": "json/touchcursor_mode.json",
@@ -391,222 +908,6 @@
       ]
     },
     {
-      "name": "Application Specific",
-      "id": "application-specific",
-      "files": [
-        {
-          "path": "json/obsidian_emacs_vim-insert.json"
-        },
-        {
-          "path": "json/Sync_SystemVolume_to_Music.json"
-        },
-        {
-          "path": "json/Sync_SystemVolume_to_iTunes.json"
-        },
-        {
-          "path": "json/bash.json"
-        },
-        {
-          "path": "json/convert_hangouts_mutes_to_zoom_us.json"
-        },
-        {
-          "path": "json/swap_alt_cmd_in_autodesk_maya.json"
-        },
-        {
-          "path": "json/remote_desktop_separated_rules.json"
-        },
-        {
-          "path": "json/remote-desktop.json"
-        },
-        {
-          "path": "json/mac_osx_on_rdp.json"
-        },
-        {
-          "path": "json/uk_macos_rdp.json"
-        },
-        {
-          "path": "json/french_mac_keyboard_remote_desktop.json",
-          "extra_description_path": "extra_descriptions/french_mac_keyboard_remote_desktop.json.html"
-        },
-        {
-          "path": "json/tmux_prefix.json",
-          "extra_description_path": "extra_descriptions/tmux_prefix.json.html"
-        },
-        {
-          "path": "json/terminal_navi.json",
-          "extra_description_path": "extra_descriptions/terminal_navi.json.html"
-        },
-        {
-          "path": "json/launch_new_Chrome_or_iTerm2_windows.json",
-          "extra_description_path": "extra_descriptions/launch_new_Chrome_or_iTerm2_windows.json.html"
-        },
-        {
-          "path": "json/launchapp_catalina.json",
-          "extra_description_path": "extra_descriptions/launchapp_catalina.json.html"
-        },
-        {
-          "path": "json/xcode.json"
-        },
-        {
-          "path": "json/vscode.json",
-          "extra_description_path": "extra_descriptions/vscode.json.html"
-        },
-        {
-          "path": "json/safari.json"
-        },
-        {
-          "path": "json/safari_ignore_command_q.json"
-        },
-        {
-          "path": "json/virtual_machine.json"
-        },
-        {
-          "path": "json/amethyst.json"
-        },
-        {
-          "path": "json/finder.json"
-        },
-        {
-          "path": "json/Photoshop_Windows_keymaps.json"
-        },
-        {
-          "path": "json/vim_style_escape.json"
-        },
-        {
-          "path": "json/vim_buffer_switch.json"
-        },
-        {
-          "path": "json/sketch-shortcut.json",
-          "extra_description_path": "extra_descriptions/sketch-shortcut.json.html"
-        },
-        {
-          "path": "json/figma-shortcut.json",
-          "extra_description_path": "extra_descriptions/figma-shortcut.json.html"
-        },
-        {
-          "path": "json/option_tab.json"
-        },
-        {
-          "path": "json/alacritty.json"
-        },
-        {
-          "path": "json/aquaskk.json"
-        },
-        {
-          "path": "json/vnc_swap_left_cmd_ctrl.json"
-        },
-        {
-          "path": "json/jetbrains_osx_mimics_pc.json",
-          "extra_description_path": "extra_descriptions/jetbrains_osx_mimics_pc.json.html"
-        },
-        {
-          "path": "json/spectacle_fn_wasdf.json",
-          "extra_description_path": "extra_descriptions/spectacle_fn_wasdf.json.html"
-        },
-        {
-          "path": "json/stadia_cmd.json",
-          "extra_description_path": "extra_descriptions/stadia_cmd.html"
-        },
-        {
-          "path": "json/wow_cmd.json",
-          "extra_description_path": "extra_descriptions/wow_cmd.html"
-        },
-        {
-          "path": "json/swap_ctrl_and_cmd_for_trader_workstation.json"
-        },
-        {
-          "path": "json/roon.json"
-        },
-        {
-          "path": "json/notion_cmd_p_to_cmd_k.json"
-        },
-        {
-          "path": "json/panic-nova-home-and-end.json",
-          "extra_description_path": "extra_descriptions/panic-nova-home-and-end.json.html"
-        },
-        {
-          "path": "json/citrix_ctrl_alt_win.json",
-          "extra_description_path": "extra_descriptions/citrix.html"
-        },
-        {
-          "path": "json/citrix_ctrl_win_alt.json",
-          "extra_description_path": "extra_descriptions/citrix.html"
-        },
-        {
-          "path": "json/control-to-command-in-office.json"
-        },
-        {
-          "path": "json/preview-vim.json",
-          "extra_description_path": "extra_descriptions/preview-vim.html"
-        },
-        {
-          "path": "json/swap_ctrl_and_cmd_except_in_terminal.json"
-        },
-        {
-          "path": "json/swap_fn_and_cmd_except_in_terminal.json"
-        },
-        {
-          "path": "json/KeynoteAndIllustrator.json"
-        },
-        {
-          "path": "json/apple_mail_shortcuts.json"
-        },
-        {
-          "path": "json/slack_shortcuts.json"
-        },
-        {
-          "path": "json/eject_to_activate_and_toggle_mic_mute_ms_teams.json"
-        },
-        {
-          "path": "json/shift-enter-fish-shell-autocomplete.json"
-        },
-        {
-          "path": "json/clickup.json"
-        },
-        {
-          "path": "json/dictation-to-mutify.json"
-        },
-        {
-          "path": "json/browser-rshift-enter-disable.json"
-        },
-        {
-          "path": "json/jetbrains_rider_fn.json"
-        },
-        {
-          "path": "json/shottr_map_cmd_c_to_copy.json"
-        },
-        {
-          "path": "json/finder_improved_navigation.json"
-        },
-        {
-          "path": "json/f5_ms_teams_zoom_mic_mute.json",
-          "extra_description_path": "extra_descriptions/f5_ms_teams_zoom_mic_mute.html"
-        },
-        {
-          "path": "json/music_keyboard_controls.json",
-          "extra_description_path": "extra_descriptions/music_keyboard_controls.html"
-        },
-        {
-          "path": "json/ms_teams_ptt.json"
-        },
-        {
-          "path": "json/parallels_right_cmd_to_insert.json"
-        },
-        {
-          "path": "json/f12-show-hide-iterm.json"
-        },
-        {
-          "path": "json/fn+cmd_to_eisu_and_kana.json"
-        },
-        {
-          "path": "json/tradingview_ctrl_n.json"
-        },
-        {
-          "path": "json/logitech_mx_vertical_back_forward_with_vs_code.json"
-        }
-      ]
-    },
-    {
       "name": "Alternative Keyboard Layouts",
       "id": "alternative-keyboard-layouts",
       "files": [
@@ -643,12 +944,19 @@
           "extra_description_path": "extra_descriptions/colemak_dh_ansi_layout.json.html"
         },
         {
+          "path": "json/om_colemak_command_qwerty.json"
+        },
+        {
           "path": "json/codemak.json",
           "extra_description_path": "extra_descriptions/codemak.json.html"
         },
         {
           "path": "json/neo2.json",
           "extra_description_path": "extra_descriptions/neo2.json.html"
+        },
+        {
+          "path": "json/neo_layouts_based_on_abc_extended_layout.json",
+          "extra_description_path": "extra_descriptions/neo_layouts_based_on_abc_extended_layout.json.html"
         },
         {
           "path": "json/half-qwerty.json",
@@ -715,6 +1023,10 @@
           "extra_description_path": "extra_descriptions/jis_pretend_remote_us.html"
         },
         {
+          "path": "json/ei-kana-cmd.json",
+          "extra_description_path": "extra_descriptions/ei-kana-cmd.json.html"
+        },
+        {
           "path": "json/german_pc_shortcuts.json"
         },
         {
@@ -726,6 +1038,10 @@
         {
           "path": "json/german_programming.json",
           "extra_description_path": "extra_descriptions/german_programming.json.html"
+        },
+        {
+          "path": "json/german_umlaut_keyboard_mapping.json",
+          "extra_description_path": "extra_descriptions/german_umlaut_keyboard_mapping.html"
         },
         {
           "path": "json/german_iso_pc_mapping.json",
@@ -800,6 +1116,10 @@
           "extra_description_path": "extra_descriptions/swedish_programming.json.html"
         },
         {
+          "path": "json/swedish_mx_keys_programming.json",
+          "extra_description_path": "extra_descriptions/swedish_mx_keys_programming.json.html"
+        },
+        {
           "path": "json/DK_Programmer.json"
         },
         {
@@ -817,6 +1137,9 @@
           "path": "json/russian-keyboard-remapping.json"
         },
         {
+          "path": "json/eisuufn.json"
+        },
+        {
           "path": "json/kanafn.json"
         },
         {
@@ -829,6 +1152,18 @@
         {
           "path": "json/left_shift_change_english_input.json",
           "extra_description_path": "extra_descriptions/left_shift_change_english_input.json.html"
+        },
+        {
+          "path": "json/iso_pt-pt_keyboard.json"
+        },
+        {
+          "path": "json/print_screen-EN-scroll_lock-JP-pause-KR.json"
+        },
+        {
+          "path": "json/caps_lock_to_en_shift_caps_lock_to_ru.json"
+        },
+        {
+          "path": "json/us_intl_delayed_aumlaut.json"
         }
       ]
     },
@@ -836,6 +1171,10 @@
       "name": "Key Specific",
       "id": "key-specific",
       "files": [
+        {
+          "path": "json/double_tap_play_to_skip.json",
+          "extra_description_path": "extra_descriptions/double_tap_play_to_skip.json.html"
+        },
         {
           "path": "json/accute_accent_deadkey_azerty.json",
           "extra_description_path": "extra_descriptions/accute_accent_deadkey_azerty.json.html"
@@ -860,6 +1199,10 @@
           "path": "json/command_grave_accent_and_tilde_to_escape.json"
         },
         {
+          "path": "json/global_app_shortcut.json",
+          "extra_description_path": "extra_descriptions/global_app_shortcut.html"
+        },
+        {
           "path": "json/command_r_and_shift_r_to_command_tab.json"
         },
         {
@@ -881,10 +1224,10 @@
           "path": "json/ctrl_arrows_to_option_arrows.json"
         },
         {
-          "path": "json/ctrl_delete.json"
+          "path": "json/ctrl_deletes_to_option_deletes.json"
         },
         {
-          "path": "json/ctrl_forward_delete.json"
+          "path": "json/ctrl_delete_to_forward_delete.json"
         },
         {
           "path": "json/ctrlquote.json"
@@ -1018,6 +1361,10 @@
           "path": "json/shift-delete-to-delete-forward.json"
         },
         {
+          "path": "json/general-shift-delete-for-insert.json",
+          "extra_description_path": "extra_descriptions/general-shift-delete-for-insert.html"
+        },
+        {
           "path": "json/sinoridha_personal_mapping.json"
         },
         {
@@ -1106,137 +1453,28 @@
         },
         {
           "path": "json/fn_s_to_sleep.json"
-        }
-      ]
-    },
-    {
-      "name": "OS Functionality",
-      "id": "os-functionality",
-      "files": [
-        {
-          "path": "json/search_in_dict.json"
         },
         {
-          "path": "json/printscreen_command+shift+5.json"
+          "path": "json/pc-insert-to-screencapture-via-clipboard.json"
         },
         {
-          "path": "json/show_desktop.json"
+          "path": "json/intuitive_smartquotes_mac.json",
+          "extra_description_path": "extra_descriptions/intuitive_smartquotes_mac.html"
         },
         {
-          "path": "json/CapsLockToSearch.json"
+          "path": "json/om_modifier_double_tap.json"
         },
         {
-          "path": "json/cmd_del_to_cmd_bksp.json"
+          "path": "json/om_fn_to_hyper.json"
         },
         {
-          "path": "json/mouse_motion_to_scroll.json"
+          "path": "json/om_fn_to_esc.json"
         },
         {
-          "path": "json/launch_apps.json",
-          "extra_description_path": "extra_descriptions/launch_apps.json.html"
+          "path": "json/om_optionR_to_fn.json"
         },
         {
-          "path": "json/application_window_tab_switch_with_right_cmd_hjklsemiquote.json"
-        },
-        {
-          "path": "json/anti_rsi_app_switch.json"
-        },
-        {
-          "path": "json/fine_volume_control.json"
-        },
-        {
-          "path": "json/command_q.json"
-        },
-        {
-          "path": "json/mouse_keys_ambi.json",
-          "extra_description_path": "extra_descriptions/mouse_keys_ambi.json.html"
-        },
-        {
-          "path": "json/mouse_keys_simple.json",
-          "extra_description_path": "extra_descriptions/mouse_keys_simple.json.html"
-        },
-        {
-          "path": "json/mouse_keys_full.json",
-          "extra_description_path": "extra_descriptions/mouse_keys_full.json.html"
-        },
-        {
-          "path": "json/mouse_keys_mode_v4.json",
-          "extra_description_path": "extra_descriptions/mouse_keys_mode_v4.json.html"
-        },
-        {
-          "path": "json/mouse_keys_full_xgwang_me.json",
-          "extra_description_path": "extra_descriptions/mouse_keys_full_xgwang_me.json.html"
-        },
-        {
-          "path": "json/disable_cmd_f1_screen_mirroring.json"
-        },
-        {
-          "path": "json/rotate_left_modifiers.json"
-        },
-        {
-          "path": "json/sleep-monitor.json"
-        },
-        {
-          "path": "json/disable_cmd_h_hide_window.json"
-        },
-        {
-          "path": "json/control_lclick_to_lclick.json"
-        },
-        {
-          "path": "json/lock_screen.json"
-        },
-        {
-          "path": "json/screen_saver.json"
-        },
-        {
-          "path": "json/multitouch_diamond_cursor.json",
-          "extra_description_path": "extra_descriptions/multitouch_diamond_cursor.json.html"
-        },
-        {
-          "path": "json/multitouch_vi_mode.json",
-          "extra_description_path": "extra_descriptions/multitouch_vi_mode.json.html"
-        },
-        {
-          "path": "json/multitouch_mouse_buttons.json",
-          "extra_description_path": "extra_descriptions/multitouch_mouse_buttons.json.html"
-        },
-        {
-          "path": "json/thumbsense.json",
-          "extra_description_path": "extra_descriptions/thumbsense.json.html"
-        },
-        {
-          "path": "json/Right_option_as_emoji_key.json"
-        },
-        {
-          "path": "json/mouse_buttons_4_5_desktop_switch.json"
-        },
-        {
-          "path": "json/mouse_345_mac_desktop_switcher.json"
-        },
-        {
-          "path": "json/r_cmd_to_l_ctrl_and_space.json",
-          "extra_description_path": "extra_descriptions/r_cmd_to_l_ctrl_and_space.json.html"
-        },
-        {
-          "path": "json/open_terminal_window.json"
-        },
-        {
-          "path": "json/keyboard-brightness.json"
-        },
-        {
-          "path": "json/keybrightness_F5.json"
-        },
-        {
-          "path": "json/mouse_345_changer.json"
-        },
-        {
-          "path": "json/option_pgup_pgdown_home_end_to_ctrl_arrows.json"
-        },
-        {
-          "path": "json/cmd+shift+k_delete_line.json"
-        },
-        {
-          "path": "json/mission_control_all_on_f3_app_on_command_f3_desktop_on_option_f3.json"
+          "path": "json/F3-5_to_screenshots.json"
         }
       ]
     },
@@ -1297,6 +1535,10 @@
           "extra_description_path": "extra_descriptions/microsoft_sculpt_ergonomic_desktop.json.html"
         },
         {
+          "path": "json/microsoft_sculpt_ergonomic_desktop_iso_pt-pt.json",
+          "extra_description_path": "extra_descriptions/microsoft_sculpt_ergonomic_desktop_iso_pt-pt.json.html"
+        },
+        {
           "path": "json/razer_orbweaver_chroma.json"
         },
         {
@@ -1313,7 +1555,7 @@
         },
         {
           "path": "json/yubikey_disable_keystrokes.json",
-          "extra_description_path": "extra_descriptions/yubikey_disable_keystrokes.json.rb.html"
+          "extra_description_path": "extra_descriptions/yubikey_disable_keystrokes.json.html"
         },
         {
           "path": "json/Microsoft_Natural_keyboard_4000.json",
@@ -1330,6 +1572,17 @@
         {
           "path": "json/plexgear_WL-PR1000_HAS.json",
           "extra_description_path": "extra_descriptions/plexgear_WL-PR1000_HAS.html"
+        },
+        {
+          "path": "json/macbook_disable_external_keyboard_on_open.json",
+          "extra_description_path": "extra_descriptions/macbook_disable_external_keyboard_on_open.html"
+        },
+        {
+          "path": "json/command_l-and-period-to-escape.json"
+        },
+        {
+          "path": "json/cidoo_v75_pro_escape_mod.json",
+          "extra_description_path": "extra_descriptions/cidoo_v75_pro_escape_mod.json.html"
         }
       ]
     },
@@ -1377,6 +1630,10 @@
         {
           "path": "json/personal_apm1467.json",
           "extra_description_path": "extra_descriptions/personal_apm1467.json.html"
+        },
+        {
+          "path": "json/advanced_keymap_utility.json",
+          "extra_description_path": "extra_descriptions/advanced_keymap_utility.json.html"
         },
         {
           "path": "json/personal_bavelee_20200321.json"
@@ -1454,7 +1711,25 @@
           "path": "json/personal_dchf12.json"
         },
         {
-          "path": "json/personal_chxmvn.json"
+          "path": "json/personal_ccmvn.json"
+        },
+        {
+          "path": "json/personal_dziaineka.json"
+        },
+        {
+          "path": "json/om_personal_rules.json"
+        },
+        {
+          "path": "json/personal_mlewand.json"
+        },
+        {
+          "path": "json/konken-setup_for-efficient-text-typing.json"
+        },
+        {
+          "path": "json/konken-setup_quick-app-launchers-for-mac.json"
+        },
+        {
+          "path": "json/konken-setup_us-jis-adaptor.json"
         }
       ]
     },
@@ -1490,6 +1765,9 @@
           "path": "json/autoshift.json"
         },
         {
+          "path": "json/autoshift2.json"
+        },
+        {
           "path": "json/shift_r_home_end_keypress.json"
         },
         {
@@ -1505,7 +1783,17 @@
       "id": "Command arrows and home end",
       "files": [
         {
+          "path": "json/caps_lock_toolbox.json"
+        },
+        {
           "path": "json/command_h_j_k_l_u_i_to_left_down_up_right_home_end.json"
+        },
+        {
+          "path": "json/jkil_arrows.json"
+        },
+        {
+          "path": "json/word_star_diamond.json",
+          "extra_description_path": "extra_descriptions/word_star_diamond.json.html"
         }
       ]
     },
@@ -1606,9 +1894,6 @@
         },
         {
           "path": "json/example_keyboard_type.json"
-        },
-        {
-          "path": "json/example_japanese_nicola.json"
         }
       ]
     },
