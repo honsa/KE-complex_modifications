@@ -10,8 +10,8 @@ function main() {
         maintainers: ['tekezo'],
         rules: [
           {
-            description: 'Personal rules (@tekezo) (rev 54)',
-            available_since: '14.12.6',
+            description: 'Personal rules (@tekezo) (rev 58)',
+            available_since: '15.2.3',
             manipulators: [].concat(
               coreConfiguration(),
               emacs(),
@@ -41,7 +41,7 @@ function coreConfiguration() {
     // fn
     //
 
-    // Copy Unix time when fn is pressed alone
+    // Launch 1Password when fn is pressed alone
     {
       type: 'basic',
       from: {
@@ -51,7 +51,11 @@ function coreConfiguration() {
       to: [{ key_code: 'fn' }],
       to_if_alone: [
         {
-          shell_command: "open -b 'com.1password.1password'",
+          software_function: {
+            open_application: {
+              bundle_identifier: 'com.1password.1password',
+            },
+          },
         },
       ],
       parameters: {
@@ -228,6 +232,27 @@ function coreConfiguration() {
     },
 
     //
+    // command + button2
+    //
+
+    {
+      type: 'basic',
+      from: {
+        pointing_button: 'button2',
+        modifiers: {
+          mandatory: ['command'],
+          optional: ['any'],
+        },
+      },
+      to: [
+        {
+          key_code: 'tab',
+          modifiers: ['command'],
+        },
+      ],
+    },
+
+    //
     // control + command
     //
 
@@ -390,64 +415,6 @@ function emacs() {
 
 function mouse() {
   const result = [
-    //
-    // simultaneous button1 + button2 => button3
-    //
-
-    {
-      type: 'basic',
-      from: {
-        simultaneous: [
-          {
-            pointing_button: 'button1',
-          },
-          {
-            pointing_button: 'button2',
-          },
-        ],
-        modifiers: {
-          optional: ['any'],
-        },
-      },
-      to: [
-        {
-          pointing_button: 'button1',
-          modifiers: ['left_command'],
-        },
-      ],
-      conditions: [
-        {
-          type: 'frontmost_application_if',
-          bundle_identifiers: karabiner.bundleIdentifiers.visualStudioCode,
-        },
-      ],
-    },
-
-    {
-      type: 'basic',
-      from: {
-        simultaneous: [
-          {
-            pointing_button: 'button1',
-          },
-          {
-            pointing_button: 'button2',
-          },
-        ],
-        simultaneous_options: {
-          key_up_when: 'all',
-        },
-        modifiers: {
-          optional: ['any'],
-        },
-      },
-      to: [
-        {
-          pointing_button: 'button3',
-        },
-      ],
-    },
-
     //
     // mouse_motion_to_scroll (button5)
     //
@@ -1184,9 +1151,20 @@ function appBrowser() {
 }
 
 function appMicrosoftOffice() {
-  return [
-    // Edit cell by command+e in Excel
+  const rules = []
+
+  // Edit cell by command+e in Excel
+  ;[
     {
+      use_fkeys_as_standard_function_keys: true,
+      to: [{ key_code: 'f2' }],
+    },
+    {
+      use_fkeys_as_standard_function_keys: false,
+      to: [{ key_code: 'f2', modifiers: ['fn'] }],
+    },
+  ].forEach(function (def) {
+    rules.push({
       type: 'basic',
       from: {
         key_code: 'e',
@@ -1195,17 +1173,22 @@ function appMicrosoftOffice() {
           optional: ['caps_lock'],
         },
       },
-      to: {
-        key_code: 'f2',
-      },
+      to: def.to,
       conditions: [
         {
           type: 'frontmost_application_if',
           bundle_identifiers: ['^com\\.microsoft\\.Excel$'],
         },
+        {
+          type: 'variable_if',
+          name: 'system.use_fkeys_as_standard_function_keys',
+          value: def.use_fkeys_as_standard_function_keys,
+        },
       ],
-    },
-  ]
+    })
+  })
+
+  return rules
 }
 
 function appVisualStudioCode() {
